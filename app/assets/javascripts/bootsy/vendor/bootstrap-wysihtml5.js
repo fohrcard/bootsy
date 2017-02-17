@@ -60,7 +60,7 @@
                   "</div>" +
                 "</div>" +
               "</div>" +
-              "<a class='btn btn-default " + size + "' data-wysihtml5-command='createLink' title='" + locale.link.insert + "' tabindex='-1'><i class='fa fa-share' aria-hidden='true'></i></a>" +
+              "<a class='btn btn-default " + size + "' data-wysihtml5-command='createLink' title='" + locale.link.insert + "' tabindex='-1'><i class='fa fa-link' aria-hidden='true'></i></a>" +
             "</li>";
         },
 
