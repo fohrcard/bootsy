@@ -1,5 +1,9 @@
 # Bootsy Changelog
 
+## 2.3.2
+
+* Fohr: Updated Glyphicons with Font Awesome
+
 ## 2.3.1
 
 * Bootsy now supports Turbolinks 5 and up.
